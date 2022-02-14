@@ -1,0 +1,20 @@
+---
+title: "Journal Club"
+image: "img.png"
+color1: "#5499C7"
+color2: "#2e86c1"
+angle: 130
+links:
+  - label: This month
+    url: "/"
+  - label: Previous month
+    url: "/"
+  - label: List of discussed articles
+    url: "/"
+  - label: Suggest an article
+    url: "/"
+output:
+  postcards::onofre
+---
+
+There is not much to see here at the moment.
