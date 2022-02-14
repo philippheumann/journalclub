@@ -1,1 +1,1 @@
-# journalclub
+# Journal Club
