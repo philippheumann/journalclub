@@ -1,20 +1,24 @@
 ---
-title: "Journal Club"
+title: "Epidemiology Journal Club"
 image: "img.png"
-color1: "#5499C7"
-color2: "#2e86c1"
+color1: "#474747"
+color2: "#474747"
 angle: 130
 links:
-  - label: This month
-    url: "/"
-  - label: Previous month
+  - label: This month's article
     url: "/"
   - label: List of discussed articles
     url: "/"
   - label: Suggest an article
-    url: "/"
+    url: "mailto:epidemiology_journal_club@pm.me?subject=Suggestion"
 output:
   postcards::onofre
 ---
 
-There is not much to see here at the moment. This is a test.
+A monthly epidemiology journal club. To join, please write a short <a href="mailto:epidemiology_journal_club@pm.me?subject=I would like to participate." style="color: #F2AF29">email</a>.
+<br></br>
+This month: Date - Link to join (Password: )  
+
+Title:   
+Authors:   
+Abstract:   
