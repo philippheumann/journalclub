@@ -1,14 +1,14 @@
 ---
 title: "Epidemiology Journal Club"
 image: "img.png"
-color1: "#474747"
-color2: "#474747"
+color1: "#2A3A51"
+color2: "#2A3A51"
 angle: 130
 links:
   - label: This month's article
     url: "/"
   - label: List of discussed articles
-    url: "/"
+    url: "list.html"
   - label: Suggest an article
     url: "mailto:epidemiology_journal_club@pm.me?subject=Suggestion"
 output:

@@ -1,0 +1,45 @@
+---
+title: "List of discussed articles"
+author: "Epidemiology Journal Club"
+date: "Last updated: February 2022"
+output: html_document
+---
+
+<br>
+
+To suggest an article, please write an [email](mailto:epidemiology_journal_club@pm.me?subject=Suggestion).
+
+<br>
+
+```{r setup, include = FALSE}
+library(DT)
+```
+
+```{r warning=FALSE, message=FALSE, echo=FALSE}
+# Data -------------------------------------------------------------------------
+author = c("test et al.") # add authors
+
+year = c(2020) # add year of publication
+
+title = c("test test test") # add title of publication
+
+journal = c("test test test") # add journal
+
+discussed = as.Date(c("2022-02-21")) # add date article was discussed
+
+# Create data frame
+dat = data.frame(author, year, title, journal, discussed)
+
+# Create table -----------------------------------------------------------------
+DT::datatable(
+  dat,
+  colnames=c("Author", 
+             "Year",
+             "Title",
+             "Journal",
+             "Discussed on:"),
+  rownames = FALSE,
+  fillContainer = FALSE,
+  options = list(pageLength = 10)
+)
+```
