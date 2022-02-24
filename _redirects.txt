@@ -1,0 +1,1 @@
+http://journalclub.rbind.io/* https://journalclub.rbind.io/:splat 301!
