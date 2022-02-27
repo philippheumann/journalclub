@@ -15,7 +15,8 @@ output:
   postcards::onofre
 ---
 
-A monthly epidemiology journal club. Please use the link below to participate.
+The Epidemiology Journal Club meets online on the third **Wednesday** of each month **at 6 pm**.
+Please use the link below to participate.
 <br></br>
 This month: Date &mdash; Link to join (Password: )  
 
