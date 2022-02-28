@@ -18,9 +18,9 @@ output:
 The Epidemiology Journal Club meets online on the third **Wednesday** of each month **at 6 pm**.
 Please use the link below to participate.
 <br></br>
-<Hr color= "#f7dc6f">
+<hr color= "#f7dc6f">
 **This month**: 16 March 2022, at 6 pm &mdash; <a href="https://bbb.rlp.net/b/heu-dmu-yno-4v0" style="color: #F4D03F">Click here to join.</a> (Password: 374809)
-<Hr color= "#f7dc6f">
+<hr color= "#f7dc6f">
 **Title**:  _Urinary Cadmium and Incident Heart Failure &mdash; A Case–Cohort Analysis Among Never-Smokers in Denmark_   
 **Authors**: Sears, Clara G. et al.  
 **DOI**: 10.1097/EDE.0000000000001446

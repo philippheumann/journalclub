@@ -6,9 +6,7 @@ output: html_document
 ---
 
 <br>
-
 To suggest an article, please write an [email](mailto:epidemiology_journal_club@pm.me?subject=Suggestion).
-
 <br>
 
 ```{r setup, include = FALSE}
@@ -17,15 +15,15 @@ library(DT)
 
 ```{r warning=FALSE, message=FALSE, echo=FALSE}
 # Data -------------------------------------------------------------------------
-author = c("test et al.") # add authors
+author = c("Sears, Clara G. et al.") # add authors
 
-year = c(2020) # add year of publication
+year = c(2022) # add year of publication
 
-title = c("test test test") # add title of publication
+title = c("Urinary Cadmium and Incident Heart Failure") # add title of publication
 
-journal = c("test test test") # add journal
+journal = c("Epidemiology") # add journal
 
-discussed = as.Date(c("2022-02-21")) # add date article was discussed
+discussed = as.Date(c("2022-03-16")) # add date article was discussed
 
 # Create data frame
 dat = data.frame(author, year, title, journal, discussed)
