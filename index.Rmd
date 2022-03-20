@@ -6,7 +6,7 @@ color2: "#2A3A51"
 angle: 130
 links:
   - label: This month's article
-    url: "https://journals.lww.com/epidem/Fulltext/2022/03000/Urinary_Cadmium_and_Incident_Heart_Failure__A.5.aspx"
+    url: "/"
   - label: List of discussed articles
     url: "list.html"
   - label: Suggest an article
@@ -19,8 +19,8 @@ The Epidemiology Journal Club meets online on the third **Wednesday** of each mo
 Please use the link below to participate.
 <br></br>
 <hr color= "#f7dc6f">
-**This month**: 16 March 2022, at 6 pm &mdash; <a href="https://bbb.rlp.net/b/heu-dmu-yno-4v0" style="color: #F4D03F">Click here to join.</a> (Password: 374809)
+**This month**: 20 April 2022, at 6 pm &mdash; <a href="https://bbb.rlp.net/b/heu-dmu-yno-4v0" style="color: #F4D03F">Click here to join.</a> (Password: 374809)
 <hr color= "#f7dc6f">
-**Title**:  _Urinary Cadmium and Incident Heart Failure &mdash; A Case–Cohort Analysis Among Never-Smokers in Denmark_   
-**Authors**: Sears, Clara G. et al.  
-**DOI**: 10.1097/EDE.0000000000001446
+**Title**:  _tba_   
+**Authors**:   
+**DOI**: 
