@@ -23,7 +23,7 @@ year = c(2022,
          2022,
          2022) # add year of publication
 
-title = c("Urinary Cadmium and Incident Heart Failure: A Case–Cohort Analysis Among Never-Smokers in Denmark",
+title = c("Urinary Cadmium and Incident Heart Failure: A Case-Cohort Analysis Among Never-Smokers in Denmark",
           "Long‑term intake of total energy and fat in relation to subjective cognitive decline",
           "Risk factors and prognostic implications of diagnosis of cancer within 30 days after an emergency hospital admission (emergency presentation): an International Cancer Benchmarking Partnership (ICBP) population-based study") # add title of publication
 
