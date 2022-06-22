@@ -18,27 +18,32 @@ library(DT)
 author = c("Sears, Clara G. et al.",
            "Yeh, Tian-Shin et al.",
            "McPhail, Sean et al.",
-           "Stevenson, Richard J. et al.") # add authors
+           "Stevenson, Richard J. et al.",
+           "Irwin, Michael R. et al.") # add authors
 
 year = c(2022,
          2022,
          2022, 
-         2020) # add year of publication
+         2020,
+         2022) # add year of publication
 
 title = c("Urinary Cadmium and Incident Heart Failure: A Case-Cohort Analysis Among Never-Smokers in Denmark",
           "Long‑term intake of total energy and fat in relation to subjective cognitive decline",
           "Risk factors and prognostic implications of diagnosis of cancer within 30 days after an emergency hospital admission (emergency presentation): an International Cancer Benchmarking Partnership (ICBP) population-based study",
-          "Hippocampal-dependent appetitive control is impaired by experimental exposure to a Western-style diet") # add title of publication
+          "Hippocampal-dependent appetitive control is impaired by experimental exposure to a Western-style diet",
+          "Prevention of Incident and Recurrent Major Depression in Older Adults With Insomnia") # add title of publication
 
 journal = c("Epidemiology",
             "European Journal of Epidemiology",
             "The Lancet Oncology",
-            "Royal Society Open Science") # add journal
+            "Royal Society Open Science",
+            "JAMA Psychiatry") # add journal
 
 discussed = as.Date(c("2022-03-16",
                       "2022-04-20",
                       "2022-05-18",
-                      "2022-06-15")) # add date article was discussed
+                      "2022-06-15",
+                      "2022-07-20")) # add date article was discussed
 
 # Create data frame
 dat = data.frame(author, year, title, journal, discussed)
