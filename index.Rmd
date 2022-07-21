@@ -6,7 +6,7 @@ color2: "#2A3A51"
 angle: 130
 links:
   - label: This month's article
-    url: "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2786738"
+    url: "/"
   - label: List of discussed articles
     url: "list.html"
   - label: Suggest an article
@@ -14,14 +14,15 @@ links:
 output:
   postcards::onofre
 ---
+⛱️ The Epidemiology Journal Club is on **summer break**. The next event will take place on 19 October.
+
 
 The Epidemiology Journal Club meets online on the third **Wednesday** of each month **at 6 pm**.
 Please use the link below to participate.
 <br></br>
 <hr color= "#f7dc6f">
-**This month**: 20 July 2022, at 6 pm &mdash; <a href="https://bbb.rlp.net/b/heu-dmu-yno-4v0" style="color: #F4D03F">Click here to join.</a> (Password: 374809)
+**This month**: &mdash; <a href="https://bbb.rlp.net/b/heu-dmu-yno-4v0" style="color: #F4D03F">Click here to join.</a> (Password: 374809)
 <hr color= "#f7dc6f">
-**Title**:  Prevention of Incident and Recurrent Major Depression
-in Older Adults With Insomnia      
-**Authors**: Michael R. Irwin et al.       
-**DOI**: 10.1001/jamapsychiatry.2021.3422
+**Title**:  
+**Authors**:        
+**DOI**: 
